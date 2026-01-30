@@ -1,6 +1,6 @@
-// Flashcards 006 - יסודות מתמטיים
+// Flashcards 005 - יסודות מתמטיים
 export default {
-  id: "flashcards-006",
+  id: "flashcards-005",
   name: "יסודות מתמטיים",
   description: "כרטיסיות על הבסיס המתמטי של למידה עמוקה",
   cards: [
